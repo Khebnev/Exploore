@@ -112,17 +112,18 @@ body{
 }
 /*header__bottom*/
 .header__bottom{
-    margin-left: 28px;
+    margin-left: 7px;
 }
 .header__logo{
-    display: inline-block;
-    margin-right: 346px;
+    float: left;
+    margin-right: 350px;
 }
 .header_menu{
     display: inline-block;
     font: 16px Montserrat;
     text-transform: uppercase;
-
+    float: left;
+    margin-top: 17px;
 }
 .menu{
     display: inline-block;
@@ -134,19 +135,19 @@ body{
     display: inline-block;
 }
 .home{
-    margin-right: 53px;
+    margin-right: 49px;
 }
 .destination{
     margin-right: 54px;
 }
 .discount{
-    margin-right: 50px;
+    margin-right: 52px;
 }
 .about{
-    margin-right: 51px;
+    margin-right: 47px;
 }
 .blog{
-    margin-right: 52px;
+    margin-right: 46px;
 }
 .contact{
 
