@@ -187,4 +187,107 @@ body{
     box-sizing: border-box;
     font: 15px Montserrat;
     font-weight: 800;
+    text-transform: uppercase;
+}
+/*BLOCK CONTENT*/
+
+.content__find-hotels{
+    height: 333px;
+    width: 1600px;
+    background: url(images/hotels-bg.png);
+}
+.find-hotels__title{
+    font: 37px Montserrat;
+    font-weight: 800;
+    padding-top: 71px;
+    padding-bottom: 55px;
+    padding-left: 673px;
+    text-transform: uppercase;
+}
+.find-hotels__inputs{
+/*    height: 107px;*/
+    margin-left: 180px;
+}
+.find-hotels__description-col{
+/*    width: 233px;*/
+/*    height: 76px;*/
+    display: inline-block;
+
+}
+.hotels__location-title{
+    font: 20px Montserrat;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.hotels__location-input{
+    width: 233px;
+    height: 40px;
+    margin-right: 20px;
+    border-radius: 9px;
+}
+
+.hotels__check-in-title{
+    font: 20px Montserrat;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.hotels__check-in-input{
+    width: 204px;
+    height: 40px;
+    border-radius: 9px;
+    margin-right: 13px;
+}
+.hotels__check-out-title{
+    font: 20px Montserrat;
+    font-weight: 600;
+    margin-bottom: 14px;
+}
+.hotels__check-out-input{
+    width: 208px;
+    height: 40px;
+    margin-right: 18px;
+    border-radius: 9px;
+}
+.hotels__check-out-title{
+    font: 20px Montserrat;
+    font-weight: 600;
+}
+.hotels__adult-title{
+    font: 20px Montserrat;
+    font-weight: 600;
+    margin-bottom: 15px;
+    border-radius: 9px;
+}
+.hotels__adult-input{
+    width: 132px;
+    height: 40px;
+    margin-right: 11px;
+    border-radius: 9px;
+}
+.hotels__child-title{
+    font: 20px Montserrat;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.hotels__child-input{
+    width: 132px;
+    height: 40px;
+    border-radius: 9px;
+}
+
+.find-hotels__button{
+    display: inline-block;
+    margin-left: 34px;
+}
+.find-hotels__btn{
+    background: #4c4c4c;
+    color: #fff;
+    width: 189px;
+    height: 41px;
+    border: 1px solid #4c4c4c;
+    border-radius: 3px;
+    font: 15px Montserrat;
+    font-weight: 800;
+    text-transform: uppercase;
+
 }
