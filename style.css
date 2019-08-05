@@ -16,7 +16,11 @@ body{
 .footer{
 
 }
-
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
 
 .header__main{
     background: url(images/header__bg.png);
@@ -289,5 +293,62 @@ body{
     font: 15px Montserrat;
     font-weight: 800;
     text-transform: uppercase;
+}
+/*content__about*/
+.content__about{
+    width: 1600px;
+    height: 612px;
+}
+.about__left{
+    background: url(images/about-bg.png);
+    width: 800px;
+    height: 612px;
+    float: left;
+}
+.about__right{
+    width: 800px;
+    height: 612px;
+    float: left;
+}
+.about__right-title{
+    font: 37px Montserrat;
+    font-weight: 800;
+    margin-top: 80px;
+    margin-left: 62px;
+}
+.about__right-subtitle{
+    font: 37px Montserrat;
+    font-weight: 500;
+    margin-left: 62px;
+    margin-bottom: 36px;
+}
+.about__right-text{
+    font: 17px Leto;
+    margin-left: 68px;
+    margin-right: 210px;
+    font-weight: 600;
+    line-height: 1.5;
+}
+.about__right-list{
+    padding-inline-start: 0px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    list-style: none;
+    font: 17px Leto;
+    font-weight: 500;
+    margin-left: 70px;
+    margin-top: 45px;
+
+}
+.about__right-list li{
+    background: url(images/about-mark.png) 0px no-repeat;
+    padding-left: 65px;
+    color: #000;
+    margin-bottom: 40px;
+    line-height: 1.5;
+    font: 17px Leto;
+    font-weight: 600;
+    margin-right: 260px;
+
 
 }
