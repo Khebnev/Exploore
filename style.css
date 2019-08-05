@@ -338,7 +338,6 @@ body{
     font-weight: 500;
     margin-left: 70px;
     margin-top: 45px;
-
 }
 .about__right-list li{
     background: url(images/about-mark.png) 0px no-repeat;
@@ -349,6 +348,121 @@ body{
     font: 17px Leto;
     font-weight: 600;
     margin-right: 260px;
+}
+/*Content services*/
+.content__services{
+    height: 685px;
+    width: 1600px;
+    background-color: #fff;
+}
+.services__heading{
+    margin-top: 69px;
+    text-align: center;
+    margin-bottom: 78px;
+}
+.services__title{
+    font: 37px Montserrat;
+    font-weight: 800;
+    margin-bottom: 27px;
+}
+.services__subtitle{
+    font: 37px Montserrat;
+    font-weight: 600;
+}
+.services__container{
+
+}
+.services__container-top{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 194px;
+}
+.service__item1{
+    float: left;
+    width: 467px;
+    height: 94px;
+    margin-right: 232px;
+}
+.service__item-logo1{
+    float: left;
+    margin-right: 75px;
+    padding-bottom: 40px;
+}
+.service__item-description-block{
+    height: 94px;
+/*    width: 437px;*/
+}
+.service__item-title{
+    font: 22px Montserrat;
+    margin-bottom: 19px;
+}
+.service__item-description{
+    font: 17px Montserrat;
+}
+.service__item2{
+    float: left;
+    width: 487px;
+    height: 94px;
+}
+.service__item-logo2{
+    float: left;
+    margin-right: 75px;
+    padding-bottom: 40px;
+}
 
 
+.services__container-mid{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 194px;
+}
+.service__item3{
+    float: left;
+    width: 467px;
+    height: 94px;
+    margin-right: 228px;
+}
+.service__item-logo3{
+    float: left;
+    margin-right: 75px;
+    padding-bottom: 40px;
+}
+
+.service__item4{
+    float: left;
+    width: 497px;
+    height: 94px;
+}
+.service__item-logo4{
+    float: left;
+    margin-right: 75px;
+    padding-bottom: 40px;
+}
+/*///////////*/
+.services__container-bottom{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 194px;
+}
+.service__item5{
+    float: left;
+    width: 537px;
+    height: 94px;
+    margin-right: 160px;
+}
+.service__item-logo5{
+    float: left;
+    margin-right: 45px;
+    padding-bottom: 40px;
+}
+
+.service__item6{
+    float: left;
+    width: 497px;
+    height: 94px;
+}
+.service__item-logo6{
+    float: left;
+    margin-right: 86px;
+    padding-bottom: 40px;
 }
