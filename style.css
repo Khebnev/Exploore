@@ -466,3 +466,93 @@ body{
     margin-right: 86px;
     padding-bottom: 40px;
 }
+/*content__budget-package*/
+
+.content__budget-package{
+    background: url(images/budget-package-bg.png) no-repeat;
+    height: 760px;
+}
+
+.content__budget-package-heading{
+    padding-left: 600px;
+    padding-top: 91px;
+    padding-bottom: 70px;
+}
+.content__budget-package-title{
+    font: 37px Montserrat;
+    font-weight: 800;
+    margin-bottom: 28px;
+}
+.content__budget-package-subtitle{
+    font: 37px Montserrat;
+    font-weight: 600;
+}
+.content__budget-package-container{
+    width: 1600px;
+    margin-left: 170px;
+}
+.content__low-budget-trip{
+/*    background: #fff;*/
+/*    float: left;*/
+/*    display: inline-block;*/
+/*    margin-left: 100px;*/
+
+}
+.budget-trip__main-block{
+    background: #fff;
+    width: 383px;
+    height: 412px;
+    float: left;
+    margin-right: 50px;
+    border-radius: 9px
+}
+.budget-trip__title{
+    font: 24px Montserrat;
+    font-weight: 800;
+    text-align: center;
+}
+.budget-trip__icon{
+    text-align: center;
+}
+.car{
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+.budget-trip__line{
+    background: yellow;
+    height: 64px;
+    width: 398px;
+    margin-left: -8px;
+}
+.budget-trip__price{
+    text-align: center;
+    padding-top: 12px;
+    font: 30px Montserrat;
+    font-weight: 600;
+}
+
+.train{
+    margin-top: 29px;
+    margin-bottom: 25px;
+}
+
+.content__high-budget-trip{
+    margin-right: 184px;
+}
+.airplan{
+    margin-top: 37px;
+    margin-bottom: 32px;
+}
+.budget-trip__list{
+    list-style: none;
+    list-style-image: url(images/budget-package-mark.png);
+    padding-inline-start: 0px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-left: 102px;
+    margin-top: 34px;
+}
+.budget-trip__item{
+    font: 17px Lato;
+    line-height: 1.7;
+}
