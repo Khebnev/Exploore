@@ -556,3 +556,125 @@ body{
     font: 17px Lato;
     line-height: 1.7;
 }
+
+/*content__tour-status*/
+.content__tour-status{
+    width: 1600px;
+    height: 734px;
+    background: #fff;
+
+}
+.tour-status__left{
+    margin-left: 177px;
+    margin-top: 90px;
+    float: left;
+    margin-right: 80px;
+}
+.tour-status__left-side-image{
+
+}
+.tour-status__right{
+    float: left;
+    width: 826px;
+    height: 734px;
+
+}
+.tour-status__right-information{
+    margin-top: 90px;
+}
+.tour-status__infornation-right-heading{
+    margin-bottom: 54px;
+}
+.tour-status__right-title{
+    font: 37px Montserrat;
+    font-weight: 800;
+    margin-bottom: 29px;
+}
+.tour-status__right-subtitle{
+    font: 37px Montserrat;
+    font-weight: 600;
+}
+.tour-status__right-status-bar{
+    margin-bottom: 52px;
+}
+.tour-status__right-status-bar-area{
+    width: 704px;
+    height: 99px;
+    background: #fff;
+    border: 2px solid #00a4ff;
+    box-sizing: border-box;
+}
+.status-bar__flight{
+    float: left;
+    width: 225px;
+    height: 97px;
+    background-color: #00a4ff;
+}
+.status-bar__flight-icon{
+    padding-top: 26px;
+    float: left;
+    padding-left: 35px;
+    padding-right: 25px;
+}
+.status-bar__flight-text{
+    color: #fff;
+    font: 30px Montserrat;
+    font-weight: 600;
+    padding-top: 27px;
+}
+
+.status-bar__cab{
+    float: left;
+    width: 225px;
+    height: 95px;
+    background: #e4e4e4;
+
+}
+.status-bar__cab-icon{
+    padding-left: 35px;
+/*    background: grey;*/
+    width: 50px;
+    height: 40px;
+    float: left;
+    margin-right: 25px;
+    padding-top: 26px;
+}
+.status-bar__cab-text{
+    font: 30px Montserrat;
+    font-weight: 600;
+    padding-top: 30px;
+}
+.status-bar__hotel{
+    float: left;
+    width: 225px;
+    padding-top: 20px;
+}
+.status-bar__hotel-icon{
+    width: 50px;
+    height: 46px;
+    float: left;
+    margin-right: 25px;
+    padding-left: 35px;
+}
+.status-bar__hotel-text{
+    font: 30px Montserrat;
+/*    float: left;*/
+    font-weight: 600;
+    padding-top: 10px;
+}
+.tour-status__text{
+    font: 17px Lato;
+    width: 634px;
+    line-height: 1.5;
+    margin-bottom: 63px;
+}
+.tour-status__btn{
+    width: 215px;
+    height: 56px;
+    background: #f7de3b;
+    border-radius: 9px;
+    border-color: #f7de3b;
+    font: 15px Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+}
