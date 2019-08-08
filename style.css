@@ -1119,3 +1119,62 @@ best-deals__container{
     font-weight: 500;
     text-transform: uppercase;
 }
+
+/*content__reviews*/
+.content__reviews{
+    height: 592px;
+    width: 1600px;
+    background-image: url(images/reviews-bg.png);
+}
+.content__reviews-heading{
+    padding-top: 98px;
+    padding-bottom: 75px;
+    color: #fff;
+    text-align: center;
+}
+.content__reviews-title{
+    font: 37px Montserrat;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.content__reviews-subtitle{
+    font: 37px Montserrat;
+    font-weight: 600;
+}
+.content__reviews-review{
+    text-align: center
+}
+.content__reviews-text{
+    font: 17px Lato;
+    font-weight: 700;
+    color: #fff;
+    width: 969px;
+    height: 74px;
+    margin-left: 300px;
+}
+.content__reviews-rating{
+    margin-top: 36px;
+    margin-bottom: 58px;
+}
+.content__reviews-person{
+    text-align: center;
+    margin-left: 42%;
+}
+.content__reviews-ava{
+    float: left;
+}
+.content__reviews-information{
+    margin-left: 18px;
+    float: left;
+    color: #fff;
+    margin-top: 10px;
+}
+.context__reviews-name{
+    font: 24px Montserrat;
+    font-weight: 800;
+    margin-bottom: 9px;
+}
+.context__reviews-position{
+    font: 15px Montserrat;
+    font-weight: 600;
+}
