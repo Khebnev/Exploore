@@ -14,7 +14,7 @@ body{
 
 }
 .footer{
-
+    background: #fff;
 }
 .clearfix:after {
   content: "";
@@ -1167,7 +1167,7 @@ best-deals__container{
     margin-left: 18px;
     float: left;
     color: #fff;
-    margin-top: 10px;
+    margin-top: 8px;
 }
 .context__reviews-name{
     font: 24px Montserrat;
@@ -1177,4 +1177,149 @@ best-deals__container{
 .context__reviews-position{
     font: 15px Montserrat;
     font-weight: 600;
+}
+/*        FOOTER                 */
+.footer__top{
+    width: 1600px;
+    height: 1070px;
+    background-image: url(images/footer-top-bg.png);
+    background-repeat: no-repeat;
+}
+.footer__top-heading{
+    color: #fff;
+    padding-top: 143px;
+    text-align: center;
+    margin-bottom: 552px;
+}
+.footer__top-heading-title{
+    font: 37px Montserrat;
+    font-weight: 800;
+}
+.ooter__top-heading-subtitle{
+    font: 37px Montserrat;
+    font-weight: 600;
+}
+.footer__top-contacts{
+    margin-left: 25%;
+}
+.footer__top-contacts-list{
+    list-style: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0px;
+}
+.footer__contacts-list-item-1{
+    width: 310px;
+    float: left;
+}
+.footer__contacts-icon-email{
+    float: left;
+    height: 60px;
+    margin-right: 20px;
+}
+footer__contacts-right{
+    float: left;
+    width: 300px;
+}
+.footer__contacts-title{
+    font: 17px Lato;
+    font-weight: 700;
+/*    float: left;*/
+}
+.footer__contacts-information p{
+    font: 16px Lato;
+/*    float: left;*/
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+.footer__contacts-icon-call{
+
+}
+
+.footer__contacts-list-item-2{
+    width: 310px;
+    float: left;
+}
+.footer__contacts-icon-call{
+    float: left;
+    height: 60px;
+    margin-right: 20px;
+}
+footer__contacts-right{
+    float: left;
+    width: 300px;
+}
+.footer__contacts-title{
+    font: 17px Lato;
+    font-weight: 700;
+/*    float: left;*/
+}
+.footer__contacts-information p{
+    font: 16px Lato;
+/*    float: left;*/
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+.footer__contacts-icon-call{
+
+}
+
+.footer__contacts-list-item-3{
+    width: 310px;
+    float: left;
+}
+.footer__contacts-icon-address{
+    float: left;
+    height: 60px;
+    margin-right: 20px;
+}
+footer__contacts-right{
+    float: left;
+    width: 300px;
+}
+.footer__contacts-title{
+    font: 17px Lato;
+    font-weight: 700;
+/*    float: left;*/
+}
+.footer__contacts-information p{
+    font: 16px Lato;
+/*    float: left;*/
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+.footer__contacts-icon-call{
+
+}
+
+.footer__top-social{
+    margin-top: 120px;
+}
+.footer__top-social-list{
+    list-style: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0px;
+    margin-left: 29%;
+}
+.footer__top-social-list-item{
+    float: left;
+    margin-right: 33px;
+}
+.footer__bottom{
+    background: #f0d839;
+    height: 183px;
+    width: 1600px;
+}
+.footer__bottom-title{
+    font: 17px Times New Roman;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 65px;
+    margin-bottom: 24px;
+}
+.footer__bottom-subtitle{
+    font: 17px Times New Roman;
+    font-weight: 600;
+    text-align: center;
 }
