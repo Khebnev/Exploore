@@ -1006,7 +1006,6 @@ best-deals__container{
     position: relative;
 }
 .blog__right-btn{
-
     transform: translateY(240px);
     width: 176px;
     height: 46px;
@@ -1031,4 +1030,92 @@ best-deals__container{
     height: 96px;
     text-align: center;
     padding-left: 55px;
+}
+.content__slide{
+    height: 856px;
+    width: 1600px;
+}
+.content__slide-bg{
+    background-image: url(images/slide-bg.png);
+    width: 905px;
+    height: 693px;
+    margin-top: 97px;
+    margin-left: 59px;
+    float: left;
+}
+.content__slide-right-block{
+    float: left;
+}
+.slide-right-block__container{
+    width: 597px;
+    height: 445px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+    border-radius: 9px;
+    margin-top: 231px;
+    margin-left: -130px;
+    background: #fff;
+}
+.slide-right-block-heading{
+    padding-top: 41px;
+    padding-bottom: 41px;
+}
+.slide-right-block-title{
+    font: 37px Montserrat;
+    font-weight: 800;
+    margin-left: 29px;
+    margin-bottom: 22px;
+}
+.slide-right-block-subtitle{
+    font: 24px Montserrat;
+    font-weight: 500;
+    margin-left: 46px;
+}
+.slide-right-block__list{
+    list-style: none;
+    text-align: center;
+    padding-inline-start: 0px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-left: 57px;
+}
+.slide-right-block__list-item{
+    width: 67px;
+    height: 79px;
+    float: left;
+    font: 20px Montserrat;
+}
+.slide-airplan{
+    padding-top: 4px;
+    margin-right: 79px;
+}
+.slide-transport{
+    padding-top: 6px;
+    margin-left: 61px;
+}
+.slide-right-block__text{
+    font: 17px Lato;
+    font-weight: 600;
+    width: 513px;
+    height: 46px;
+    margin-left: 52px;
+}
+.slide-right-block__price{
+    font: 50px Montserrat;
+    font-weight: 900;
+    float: left;
+    margin-top: 34px;
+    margin-right: 62px;
+    margin-left: 46px;
+}
+.slide-right-block__btn{
+    width: 176px;
+    height: 46px;
+    background: #f8df3b;
+    border-radius: 9px;
+    float: left;
+    margin-top: 42px;
+    color: #000;
+    font: 15px Montserrat;
+    font-weight: 500;
+    text-transform: uppercase;
 }
