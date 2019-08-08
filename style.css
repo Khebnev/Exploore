@@ -881,3 +881,154 @@ best-deals__container{
     border-radius: 9px;
     color: #000;
 }
+/*                    BLOG                 */
+
+.content__blog{
+    height: 829px;
+    width: 1600px;
+    background-image: url(images/blog-bg.png);
+}
+.content__blog-heading{
+    padding-top: 103px;
+    padding-bottom: 61px;
+    text-align: center;
+}
+.content__blog-title{
+    font: 37px Montserrat;
+    font-weight: 800;
+    margin-bottom: 26px;
+}
+.content__blog-subtitle{
+    font: 37px Montserrat;
+    font-weight: 600;
+}
+.content__blog-container{
+
+}
+/*                LEFT                 */
+
+.content__blog-left{
+    width: 383px;
+    height: 502px;
+    background: #fff;
+    float: left;
+    margin-left: 100px;
+}
+.content__blog-left-bg{
+    width: 100%;
+    height: 259px;
+    background-image: url(images/blog-img1.png);
+    margin-bottom: 64px;
+    position: relative;
+}
+.blog__left-btn{
+    border: 0;
+    transform: translateY(240px);
+    width: 176px;
+    height: 46px;
+    margin-left: 25%;
+    background-color: #eed638;
+    border-radius: 3px;
+    color: #000;
+    text-transform: uppercase;
+    font: 15px Montserrat;
+    font-weight: 600;
+}
+.content__blog-left-title{
+    font: 25px Montserrat;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.content__blog-left-text{
+    font: 17px Lato;
+    font-weight: 600;
+    width: 276px;
+    height: 96px;
+    text-align: center;
+    padding-left: 55px;
+}
+/*CENTER*/
+.content__blog-center{
+    width: 383px;
+    height: 502px;
+    background: #fff;
+    float: left;
+    margin-left: 100px;
+}
+.content__blog-center-bg{
+    width: 100%;
+    height: 259px;
+    background-image: url(images/blog-img2.png);
+    margin-bottom: 64px;
+    position: relative;
+}
+.blog__center-btn{
+    border: 0;
+    transform: translateY(240px);
+    width: 176px;
+    height: 46px;
+    margin-left: 25%;
+    background-color: #eed638;
+    border-radius: 3px;
+    color: #000;
+    text-transform: uppercase;
+    font: 15px Montserrat;
+    font-weight: 600;
+}
+.content__blog-center-title{
+    font: 25px Montserrat;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.content__blog-center-text{
+    font: 17px Lato;
+    font-weight: 600;
+    width: 276px;
+    height: 96px;
+    text-align: center;
+    padding-left: 55px;
+}
+/*                RIGHT             */
+.content__blog-right{
+    width: 383px;
+    height: 502px;
+    background: #fff;
+    float: left;
+    margin-left: 100px;
+}
+.content__blog-right-bg{
+    width: 100%;
+    height: 259px;
+    background-image: url(images/blog-img3.png);
+    margin-bottom: 64px;
+    position: relative;
+}
+.blog__right-btn{
+
+    transform: translateY(240px);
+    width: 176px;
+    height: 46px;
+    margin-left: 25%;
+    background-color: #eed638;
+    border-radius: 3px;
+    color: #000;
+    text-transform: uppercase;
+    font: 15px Montserrat;
+    font-weight: 600;
+}
+.content__blog-right-title{
+    font: 25px Montserrat;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.content__blog-right-text{
+    font: 17px Lato;
+    font-weight: 600;
+    width: 276px;
+    height: 96px;
+    text-align: center;
+    padding-left: 55px;
+}
