@@ -678,3 +678,206 @@ body{
     font-weight: 600;
     text-transform: uppercase;
 }
+
+/*content__best-deals*/
+.content__best-deals{
+    height: 939px;
+    width: 1600px;
+    background-image: url(images/best-deals__bg.png);
+}
+.best-deals__heading{
+    padding-bottom: 73px;
+    text-align: center;
+}
+.best-deals__heading-title{
+    font: 37px Montserrat;
+    font-weight: 800;
+    padding-top: 79px;
+    padding-bottom: 29px;
+}
+.best-deals__heading-subtitle{
+    font: 37px Montserrat;
+    font-weight: 600;
+}
+
+/*            best-deals content              */
+
+best-deals__container{
+
+}
+/*LEFT*/
+.best-deals__left{
+    width: 394px;
+    height: 522px;
+    background: #fff;
+    border-radius: 9px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
+    margin-left: 215px;
+    float: left;
+}
+.best-deals__left-top-bg{
+    width: 375px;
+    height: 255px;
+    border-radius: 9px 0px 0px 0px;
+    background-image: url(images/best-deals__left.png);
+    background-size: 375px 255px;
+    background-repeat: no-repeat;
+}
+.best-deals__left-text{
+    text-align: center;
+    padding-top: 14px;
+}
+.best-deals__left-text-days{
+    font: 20px Montserrat;
+    font-weight: 400;
+    margin-bottom: 14px;
+}
+.best-deals__left-text-cities{
+    font: 28px Montserrat;
+    font-weight: 800;
+    margin-bottom: 14px;
+}
+
+.best-deals__left-text-description{
+    font: 17px Lato;
+    font-weight: 600;
+    width: 220px;
+    height: 42px;
+    margin-left: 89px;
+    margin-bottom: 14px;
+}
+.best-deals__left-text-price{
+    font: 30px Montserrat;
+    font-weight: 800;
+}
+.best-deals__left-button{
+    margin-top: 14px;
+}
+.best-deals__left-btn{
+    width: 157px;
+    height: 41px;
+    background: #efd739;
+    font: 13px Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 9px;
+    color: #000;
+}
+/*CENTER*/
+.best-deals__center{
+    width: 415px;
+    height: 657px;
+/*    background: #fff;*/
+    background-image: url(images/best-deals__center-bg.png);
+    border-radius: 9px;
+    margin-left: -20px;
+    margin-top: -20px;
+    position: relative;
+    float: left;
+}
+.best-deals__center-top-bg{
+
+    height: 255px;
+    border-radius: 9px 9px 0px 0px;
+    background-image: url(images/best-deals__center.png);
+    background-size: 420px 265px;
+    background-repeat: no-repeat;
+}
+.best-deals__center-text{
+    text-align: center;
+    padding-top: 14px;
+}
+.best-deals__center-text-days{
+    font: 20px Montserrat;
+    font-weight: 400;
+    margin-bottom: 14px;
+}
+.best-deals__center-text-cities{
+    font: 28px Montserrat;
+    font-weight: 800;
+    margin-bottom: 14px;
+}
+
+.best-deals__center-text-description{
+    font: 17px Lato;
+    font-weight: 600;
+    width: 276px;
+    height: 91px;
+    margin-left: 77px;
+    margin-bottom: 14px;
+}
+.best-deals__center-text-price{
+    font: 30px Montserrat;
+    font-weight: 800;
+}
+.best-deals__center-button{
+    margin-top: 14px;
+}
+.best-deals__center-btn{
+    width: 157px;
+    height: 41px;
+    background: #efd739;
+    font: 13px Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 9px;
+    color: #000;
+}
+/*RIGHT*/
+.best-deals__right{
+/*    width: 394px;*/
+    height: 522px;
+    background: #fff;
+    border-radius: 9px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
+    margin-left: -20px;
+    float: left;
+}
+.best-deals__right-top-bg{
+    width: 375px;
+    height: 255px;
+    border-radius: 0px 9px 0px 0px;
+    background-image: url(images/best-deals__right.png);
+    background-size: 375px 255px;
+    background-repeat: no-repeat;
+}
+.best-deals__right-text{
+    text-align: center;
+    padding-top: 14px;
+}
+.best-deals__right-text-days{
+    font: 20px Montserrat;
+    font-weight: 400;
+    margin-bottom: 14px;
+}
+.best-deals__right-text-cities{
+    font: 28px Montserrat;
+    font-weight: 800;
+    margin-bottom: 14px;
+}
+
+.best-deals__right-text-description{
+    font: 17px Lato;
+    font-weight: 600;
+    width: 276px;
+/*    height: 91px;*/
+    margin-left: 77px;
+    margin-bottom: 14px;
+}
+.best-deals__right-text-price{
+    font: 30px Montserrat;
+    font-weight: 800;
+}
+.best-deals__right-button{
+    margin-top: 14px;
+}
+.best-deals__right-btn{
+    width: 157px;
+    height: 41px;
+    background: #efd739;
+    font: 13px Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 9px;
+    color: #000;
+}
